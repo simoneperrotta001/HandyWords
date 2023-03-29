@@ -7,4 +7,5 @@
 
 import Foundation
 
-git = "No bono"
+var 🦆 = "Quack"
+
